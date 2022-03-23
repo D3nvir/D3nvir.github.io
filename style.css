@@ -1,29 +1,20 @@
-p{
-	color: blueviolet;
-}
-
-body{
-	background-color: -----;
-}
 h1{
-	color: blueviolet;
+	color: whitesmoke;
+    font-family: cursive;
 }
 *{
-	color: blueviolet;
-	font-size: 50px;
-	text-align: left;
+	color: whitesmoke;
+	font-family: cursive;
+    
 }
-body{
-	color: rgba(0, 200, 200, 0.0);
+a{
+	font-size: 30px;
+	color: whitesmoke;
+	font-family: initial;
 }
-body{
-	background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg);
-background-repeat: no-repeat;
-background-attachment: local;
-background-position: center;
+#ui1{
+	font-family: initial;
 }
- img{
- 	border-width: 5px;
- 	border-style: dotted;
- 	border-color: darkred;
- }
+#qq1{
+	font-family: initial;
+}
